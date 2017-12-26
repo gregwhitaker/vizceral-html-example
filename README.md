@@ -1,6 +1,9 @@
 # vizceral-html-example
 An example of using Netflix Vizceral without a web framework.
 
+## Bugs and Feedback
+For bugs, questions and discussions please use the [Github Issues](https://github.com/gregwhitaker/vizceral-html-example/issues).
+
 ## License
 MIT License
 
